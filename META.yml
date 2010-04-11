@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bundle-WebDyne
-version:            1.002
+version:            1.004
 abstract:           ~
 author:
     - Andrew Speer <andrew@webdyne.org>
